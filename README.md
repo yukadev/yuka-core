@@ -27,4 +27,4 @@ Explorer: https://explorer.yuka.network
 Website: https://yuka.network
 
 ![YUKA](https://yuka.network/bt/03intro.png)
-![YUKATECH](https://yuka.network/bt/07tech22.png)
+![YUKATECH](https://yuka.network/bt/10k-scheme.png)
