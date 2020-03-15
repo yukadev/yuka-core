@@ -18,6 +18,8 @@ Wallets: https://github.com/yukadev/yuka-core/releases
 
 Discord: https://discord.gg/G7nn2uQ
 
+Exchange: https://w.walldex.pro/market/WALLDEX.YUKA_WALLDEX.BTC
+
 Telegram: https://t.me/yukacoin
 
 Bitcointalk: https://bitcointalk.org/index.php?topic=5219022.0
@@ -27,4 +29,4 @@ Explorer: https://explorer.yuka.network
 Website: https://yuka.network
 
 ![YUKA](https://yuka.network/bt/03intro.png)
-![YUKATECH](https://yuka.network/bt/10k-scheme.png)
+![YUKATECH](https://yuka.network/bt/75k-scheme.png)
