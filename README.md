@@ -1,15 +1,9 @@
-# This is the first release of YUKA wallet v1.0.0.1
-### In the next version, the following tools will be available:
-
-1. Cash withdrawal to debit cards direct from the YUKA wallet.
-2. Improved transaction search.
-3. Fixed minor bugs.
-4. Added versions for other Linux-based systems.
-5. iOS & Android wallets.
-
-YUKA Core is extensively tested on multiple operating systems using the Linux kernel, macOS 10.10+, and Windows 8 and later.
-
-**Report any problems to the developers.**
+# YUKA wallet v1.1.1.1
+## Urgently update for stable PoS network
+1. MN port changed to **52024**
+2. Staking now from 10 YUKA coins
+3. Fixed some issues
+4. PoW will be available from [YUKA-X16RV2-core](https://github.com/yukadev/yuka-x16rv2) wallet
 
 ### Official resources:
 GitHub: https://github.com/yukadev
@@ -27,6 +21,8 @@ Bitcointalk: https://bitcointalk.org/index.php?topic=5219022.0
 Explorer: https://explorer.yuka.network
 
 Website: https://yuka.network
+
+**Report any problems to the developers.**
 
 ![YUKA](https://yuka.network/bt/03intro.png)
 ![YUKATECH](https://yuka.network/bt/75k-scheme.png)
