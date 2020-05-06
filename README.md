@@ -25,4 +25,3 @@ Website: https://yuka.network
 **Report any problems to the developers.**
 
 ![YUKA](https://yuka.network/bt/03intro.png)
-![YUKATECH](https://yuka.network/bt/75k-scheme.png)
