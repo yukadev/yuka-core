@@ -1,4 +1,4 @@
-# YUKA wallet v1.1.1.1
+# [YUKA wallet v1.1.1.1](https://github.com/yukadev/yuka-core/releases/tag/v1.1.1.1)
 ## Urgently update for stable PoS network
 1. MN port changed to **52024**
 2. Staking now from 10 YUKA coins
